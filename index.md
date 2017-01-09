@@ -1,7 +1,7 @@
 ## Apprendre le français c'est facile et gratuit
 
-
-Ce site vous aidera à apprendre les bases de la langue française. Vous trouverez une vraisité d'exercices, de vidéos et de jeux qui incluent le vocabulaire et les temps de conjugaison.
+Ce site vous aidera à apprendre les bases de la langue française. Vous trouverez une vraisité d'exercices, de vidéos et de jeux qui
+incluent le vocabulaire et les temps de conjugaison.
 
 
 ### Markdown

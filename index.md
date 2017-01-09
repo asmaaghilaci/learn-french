@@ -4,9 +4,11 @@ Ce site vous aidera à apprendre les bases de la langue française. Vous trouver
 incluent le vocabulaire et les temps de conjugaison.
 
 
-### Markdown
+# le français  
+le français est une langue très populaire. C'est une langue du monde plus de 220 millions de personnes parlent français. C'est aussi une 
+langue du marché du travail, une langue de culture et de littérature. Une langue d'amour et de raison. La langue française est une langue 
+qui ouvre des portes à tout.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block

@@ -3,7 +3,6 @@
 Ce site vous aidera à apprendre les bases de la langue française. Vous trouverez une vraisité d'exercices, de vidéos et de jeux qui
 incluent le vocabulaire et les temps de conjugaison.
 
-
 # le français  
 le français est une langue très populaire. C'est une langue du monde plus de 220 millions de personnes parlent français. C'est aussi une 
 langue du marché du travail, une langue de culture et de littérature. Une langue d'amour et de raison. La langue française est une langue 

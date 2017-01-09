@@ -13,26 +13,34 @@ Cliquez sur les épingles pour obtenir plus d'informations sur les pays et la la
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1uLU5fPWfe1gOV1aN5poZlTDULoA" width="640" height="480"></iframe>
 
+< !DOCTYPE html>
+<html>
+
+<head> 
+      <title> Navigation Tab</title>
+<style>
+
+header # page_h
+</head>
+<body>
+
+   <header id=”page_header”>
+         <nav>
+               <ul>
+
+<il><a href=”#”>Home</a><li>
+<il><a href=”#”>Exercises </a><li>
+<il><a href=”#”>blog</a><li>
+<il><a href=”#”>Hom</a><li>
+
+</ul>
+   </nav>
+      </header>
+        </body>
+           </html>
 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+### 
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/asmaaghilaci/learn-french/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 

@@ -1,8 +1,8 @@
 ## Apprendre le français c'est facile et gratuit
 
-You can use the [editor on GitHub](https://github.com/asmaaghilaci/learn-french/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ce site vous aidera à apprendre les bases de la langue française. Vous trouverez une vraisité d'exercices, de vidéos et de jeux qui incluent le vocabulaire et les temps de conjugaison.
+
 
 ### Markdown
 

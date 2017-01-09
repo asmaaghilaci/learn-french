@@ -6,7 +6,10 @@ incluent le vocabulaire et les temps de conjugaison.
 # le français  
 le français est une langue très populaire. C'est une langue du monde plus de 220 millions de personnes parlent français. C'est aussi une 
 langue du marché du travail, une langue de culture et de littérature. Une langue d'amour et de raison. La langue française est une langue 
-qui ouvre des portes à tout.
+qui ouvre des portes à tout. Le français est parlé dans de nombreux pays. Voici une carte des différents pays.
+
+
+Cliquez sur les épingles pour obtenir plus d'informations sur les pays et la langue française.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1uLU5fPWfe1gOV1aN5poZlTDULoA" width="640" height="480"></iframe>
 
